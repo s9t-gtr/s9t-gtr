@@ -5,27 +5,6 @@
 <a href='https://atcoder.jp/users/s9t'><img alt="" src="./images/atcoder.svg" height='18px'/></a>
 <br>
 🧑‍🎓42 student.
-### 🧐Interests
-<ul>
-  <li>Health & Wellness & Fitness</li>
-  <a target="_blank"><img alt="Ouraing" src="https://custom-icon-badges.demolab.com/badge/ouraring-%2312100E.svg?style=for-the-badge&logo=ouraring&logoColor=black"/></a>
-  <a target="_blank"><img alt="Polar" src="https://custom-icon-badges.demolab.com/badge/polar-%2312100E.svg?style=for-the-badge&logo=polar_beat&logoColor=black"/></a>
-  <ul>
-    <li>Meditation</li>
-    <li>HIIT(Norwegian 4x4 Protocol)</li>
-  </ul>
-  <li>Music</li>  
-    <a target="_blank"><img alt="JUCE" src="https://custom-icon-badges.demolab.com/badge/juce-%2312100E.svg?style=for-the-badge&logo=juce_color&logoColor=black"/></a> 
-  <ul>
-    <li>Music Theory</li>
-    <li>Guiter</li>
-  </ul>
-  <li>Technical Skills</li>
-  <ul>
-    <li>Kernel Programming</li>
-    <li>Digital Signal Processing</li>
-  </ul>
-</ul>
 
 ##  Repositories Collection Overview
 <ul>
