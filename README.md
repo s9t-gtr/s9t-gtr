@@ -6,7 +6,7 @@
 
 ##  Repositories Collection Overview
 <ul>
-  <li><a href="https://github.com/s9t-gtr/s9t-gtr/blob/main/projects/42.md"><b>42 Common Core</b></a><br/><i></i></li>
-  <li><a href="https://github.com/s9t-gtr/s9t-gtr/blob/main/projects/42.md"><b>Leetcode</b></a><br/><i></i></li>
+  <li><a href="https://github.com/s9t-gtr/s9t-gtr/projects/42_CommonCore.md"><b>42 Common Core</b></a><br/><i></i></li>
+  <li><a href="https://github.com/s9t-gtr/s9t-gtr/projects/Leetcode.md"><b>Leetcode</b></a><br/><i></i></li>
 </ul>
 
